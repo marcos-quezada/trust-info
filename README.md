@@ -10,6 +10,6 @@ There's no reason to censor/discriminate against people putting information into
 Given the chance to implement such ideas, what would happen to the information ecosystem? Reliable information is an asset to everybody, public or private. The journalists, correspondents  and news agencies could find a new fresh approach for distribution as well as political and social apathy could be addressed by creating a direct path to reliable and edited content.
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTUyMTAzMTEsMTI3OTU2NTQ0NCwxMD
-c1Mjk0ODQ2LDEwNzUyOTQ4NDYsLTE1NDM4NTMwMzddfQ==
+eyJoaXN0b3J5IjpbMjEzNTQ4NjM4NywtMTk1NTIxMDMxMSwxMj
+c5NTY1NDQ0LDEwNzUyOTQ4NDYsLTE1NDM4NTMwMzddfQ==
 -->
